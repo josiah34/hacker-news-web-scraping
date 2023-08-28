@@ -5,3 +5,4 @@ Python project to scrape articles from hackernews using beautifulsoup and filter
 
 
 
+![hackers-news-scrape](https://github.com/josiah34/hacker-news-web-scraping/assets/25124463/7805302d-2692-435c-b78e-56b46e042bf2)
